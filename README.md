@@ -10,5 +10,5 @@
 
 ### ☕️ Donate
 
-[![Donate](https://img.shields.io/badge/Donate-WebChat-green.svg)](https://iscod.github.io/images/donate/webchat.png)
-[![Donate](https://img.shields.io/badge/Donate-AliPay-green.svg)](https://iscod.github.io/images/donate/alipay.png)
+[![Donate](https://img.shields.io/badge/Donate-WebChat-50BE6E)](https://iscod.github.io/images/donate/webchat.png)
+[![Donate](https://img.shields.io/badge/Donate-AliPay-377EF8)](https://iscod.github.io/images/donate/alipay.png)
